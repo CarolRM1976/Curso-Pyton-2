@@ -30,7 +30,7 @@ None
 ### 📌 Clase con docstring
 
 ```python
-class numeros:
+class Numeros:
     """Esta función hace cálculos"""
     
     def operaciones(self):
